@@ -50,21 +50,40 @@
   <h2>📊 My GitHub Stats</h2>
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/BarChart.gif" width="35" />
   <br><br>
-  
+
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mihiran-Thilakarathna&theme=algolia&show_icons=true&hide_border=true&count_private=true" alt="Mihiran's GitHub Stats" />
-    &nbsp;&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mihiran-Thilakarathna&theme=algolia&show_icons=true&hide_border=true&layout=compact" alt="Mihiran's Top Languages" />
+    <img
+      height="170"
+      src="https://github-readme-stats.vercel.app/api?username=ajmadhurangasilva&theme=algolia&show_icons=true&hide_border=true&count_private=true"
+      alt="Janidu's GitHub Stats"
+    />
+
+    <img
+      height="170"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmadhurangasilva&theme=algolia&layout=compact&hide_border=true"
+      alt="Top Languages"
+    />
   </p>
-  
+
   <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mihiran-Thilakarathna&theme=algolia&hide_border=true" alt="Mihiran's Streak" />
+    <a href="https://git.io/streak-stats">
+      <img
+        src="https://streak-stats.demolab.com?user=ajmadhurangasilva&theme=dark&hide_border=true&short_numbers=true"
+        alt="GitHub Streak"
+      />
+    </a>
   </p>
-  
+
   <p>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mihiran-Thilakarathna&theme=github_dark" alt="Mihiran's Profile Summary" />
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajmadhurangasilva&theme=github_dark"
+      alt="Profile Summary"
+    />
   </p>
 </div>
+
+<br>
+<hr>
 
 <br>
 <hr>
