@@ -62,12 +62,7 @@
     </a>
   </p>
 
-  <p>
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajmadhurangasilva&theme=github_dark"
-      alt="Profile Summary"
-    />
-  </p>
+
 </div>
 
 <br>
