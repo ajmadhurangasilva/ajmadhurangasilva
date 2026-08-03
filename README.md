@@ -57,12 +57,6 @@
       src="https://github-readme-stats.vercel.app/api?username=ajmadhurangasilva&theme=algolia&show_icons=true&hide_border=true&count_private=true"
       alt="Janidu's GitHub Stats"
     />
-
-    <img
-      height="170"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmadhurangasilva&theme=algolia&layout=compact&hide_border=true"
-      alt="Top Languages"
-    />
   </p>
 
   <p>
