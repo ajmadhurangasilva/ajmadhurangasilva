@@ -71,7 +71,7 @@
 
 <div align="center">
   <h2>🐍 My Contribution Graph</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Mihiran-Thilakarathna/Mihiran-Thilakarathna/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/ajmadhurangasilva/ajmadhurangasilva/blob/main/github-user-contribution.svg" />
 </div>
 
 <div align="center">
