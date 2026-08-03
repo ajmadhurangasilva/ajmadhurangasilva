@@ -51,13 +51,7 @@
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/BarChart.gif" width="35" />
   <br><br>
 
-  <p>
-    <img
-      height="170"
-      src="https://github-readme-stats.vercel.app/api?username=ajmadhurangasilva&theme=algolia&show_icons=true&hide_border=true&count_private=true"
-      alt="Janidu's GitHub Stats"
-    />
-  </p>
+
 
   <p>
     <a href="https://git.io/streak-stats">
