@@ -67,9 +67,7 @@
 
 <br>
 <hr>
-
 <br>
-<hr>
 
 <div align="center">
   <h2>🐍 My Contribution Graph</h2>
